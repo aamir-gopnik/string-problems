@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StringProblems.iml" filepath="$PROJECT_DIR$/StringProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-problems.iml" filepath="$PROJECT_DIR$/string-problems.iml" />
     </modules>
   </component>
 </project>
