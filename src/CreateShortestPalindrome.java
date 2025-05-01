@@ -10,7 +10,7 @@ public class CreateShortestPalindrome {
         String str3 = "ab";
         String output3 = "bab";
 
-        String result = makeShortestPalindrome(str);
+        String result = makeShortestPalindrome(str2);
         System.out.println("Shortest palindrome by prepending: " + result);
     }
 

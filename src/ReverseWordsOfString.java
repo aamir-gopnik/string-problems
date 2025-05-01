@@ -1,13 +1,40 @@
+import java.util.ArrayList;
+import java.util.List;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class ReverseWordsOfString {
     //Given: All Apples are Red
     //Result: Red are Apples All
 
+
     public static void main(String[] args) {
         String s = "All Apples are Red";
-        System.out.println("Hello and welcome!");
+        //System.out.println("Hello and welcome!");
         System.out.println(reverseWordsInString(s));
+
+        reverseSolution(s);
+    }
+
+    public static void reverseSolution(String input) {
+        List<String> wordList = new ArrayList<>();
+        int j = input.length();
+
+        for(int i = input.length()-1;i>=0;i--)
+        {
+            String word = "";
+            if(input.charAt(i) == ' ')
+            {
+                 word = input.substring(i+1,j);
+                wordList.add(word);
+                wordList.add(" ");
+                j = i;
+            }
+
+        }
+        String lastWord = input.substring(0,j);
+        wordList.add(lastWord);
+        wordList.forEach(string -> System.out.print(string));
     }
 
     public static String reverseWordsInString(String inputString)
