@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f082c0-589e-40cd-b7d2-1f3e3e38537b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LongestSubStrWithNonRepeatingchars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortStringInalphabeticalOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubStrWithNonRepeatingchars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubStrWithNonRepeatingchars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
