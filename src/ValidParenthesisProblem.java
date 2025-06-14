@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class ValidParenthesisProblem {
 
     /**
@@ -6,6 +8,15 @@ public class ValidParenthesisProblem {
      */
 
     public static void main(String[] args) {
-        String data = "{24 + 28} + [{(2+3) - (1+1)}]";
+        String data = "{}[{()()}]";
+    }
+
+    public boolean validParenthesisString(String input) {
+        Stack<Character> charStack = new Stack<>();
+
+        for(int i = 0; i < input.length(); i++) {
+
+        }
+        return true;
     }
 }

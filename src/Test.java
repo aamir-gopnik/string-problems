@@ -6,11 +6,7 @@ public class Test {
 
         int alphaArr[] = new int[256];
         //Given string
-        String s = "aAamir@@@";
-        String as = "w@@rimaAa";
-        System.out.println("is anagram -> " + checkAnagram(s,as));
-        Integer i = 3;
-        System.out.println(Integer.toBinaryString(i));
+
 
     }
 

@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f082c0-589e-40cd-b7d2-1f3e3e38537b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindAllSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringToIntegerATOI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubstringSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParenthesisProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LexicographicallyOrdering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidParenthesisProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParenthesisProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,7 @@
   "keyToString": {
     "Application.CreateShortestPalindrome.executor": "Run",
     "Application.FindNonRepeatingChars.executor": "Run",
+    "Application.LexicographicallyOrdering.executor": "Run",
     "Application.LongestSubStrWithNonRepeatingchars.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RemoveWhiteSpaces.executor": "Run",
@@ -64,11 +62,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/aamir/Java-projects/orm-usage",
+    "last_opened_file_path": "C:/Users/aamir/Java-projects/string-problems",
     "onboarding.tips.debug.path": "C:/Users/aamir/Java-projects/string-problems/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SubstringSearch">
+  <component name="RunManager" selected="Application.LexicographicallyOrdering">
     <configuration name="FindNonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindNonRepeatingChars" />
       <module name="string-problems" />
@@ -76,15 +74,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubStrWithNonRepeatingchars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubStrWithNonRepeatingchars" />
+    <configuration name="LexicographicallyOrdering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LexicographicallyOrdering" />
       <module name="string-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveWhiteSpaces" />
+    <configuration name="LongestSubStrWithNonRepeatingchars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubStrWithNonRepeatingchars" />
       <module name="string-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubstringSearch" />
+        <item itemvalue="Application.LexicographicallyOrdering" />
         <item itemvalue="Application.StringToIntegerATOI" />
+        <item itemvalue="Application.SubstringSearch" />
         <item itemvalue="Application.LongestSubStrWithNonRepeatingchars" />
         <item itemvalue="Application.FindNonRepeatingChars" />
-        <item itemvalue="Application.RemoveWhiteSpaces" />
       </list>
     </recent_temporary>
   </component>
