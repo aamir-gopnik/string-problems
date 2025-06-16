@@ -1,9 +1,17 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.function.*;
+import java.util.stream.Stream;
+
 public class LexicographicallyOrdering {
 
     public static void main(String[] args) {
         String input = "welcometojava";
         int k = 3;
         System.out.println(getSmallestAndLargest(input, k));
+        System.out.println("value of a - A is " + ('a' - 'A'));
+        System.out.println("value of b - B is " + ('b' - 'B'));
 
     }
 
@@ -18,6 +26,4 @@ public class LexicographicallyOrdering {
         }
         return smallest + "\n" + largest;
     }
-
-
 }

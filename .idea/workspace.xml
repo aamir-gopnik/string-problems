@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f082c0-589e-40cd-b7d2-1f3e3e38537b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LexicographicallyOrdering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseInsensitiveAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidParenthesisProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParenthesisProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LexicographicallyOrdering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LexicographicallyOrdering.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CaseInsensitiveAnagrams.executor": "Run",
     "Application.CreateShortestPalindrome.executor": "Run",
     "Application.FindNonRepeatingChars.executor": "Run",
     "Application.LexicographicallyOrdering.executor": "Run",
@@ -66,9 +66,9 @@
     "onboarding.tips.debug.path": "C:/Users/aamir/Java-projects/string-problems/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LexicographicallyOrdering">
-    <configuration name="FindNonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindNonRepeatingChars" />
+  <component name="RunManager" selected="Application.CaseInsensitiveAnagrams">
+    <configuration name="CaseInsensitiveAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseInsensitiveAnagrams" />
       <module name="string-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CaseInsensitiveAnagrams" />
         <item itemvalue="Application.LexicographicallyOrdering" />
         <item itemvalue="Application.StringToIntegerATOI" />
         <item itemvalue="Application.SubstringSearch" />
         <item itemvalue="Application.LongestSubStrWithNonRepeatingchars" />
-        <item itemvalue="Application.FindNonRepeatingChars" />
       </list>
     </recent_temporary>
   </component>
