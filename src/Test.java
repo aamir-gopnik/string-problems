@@ -7,7 +7,6 @@ public class Test {
         int alphaArr[] = new int[256];
         //Given string
 
-
     }
 
     public static boolean checkAnagram(String s, String as) {

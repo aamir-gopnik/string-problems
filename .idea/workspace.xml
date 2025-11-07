@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f082c0-589e-40cd-b7d2-1f3e3e38537b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ConcatenateFirstLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DistinctCharactersInAllString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseInsensitiveAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseInsensitiveAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
     &quot;accountId&quot;: &quot;8dd82d97-f55a-4e84-9f8a-df18b54b7235&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-23.0.2/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -47,9 +53,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CaseInsensitiveAnagrams.executor": "Run",
+    "Application.ConcatenateFirstLetter.executor": "Run",
     "Application.CreateShortestPalindrome.executor": "Run",
+    "Application.DistinctCharactersInAllString.executor": "Run",
     "Application.FindNonRepeatingChars.executor": "Run",
     "Application.LexicographicallyOrdering.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.LongestSubStrWithNonRepeatingchars.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RemoveWhiteSpaces.executor": "Run",
@@ -62,13 +71,27 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/aamir/Java-projects/string-problems",
+    "last_opened_file_path": "C:/Users/aamir/Java-projects/array-problems",
     "onboarding.tips.debug.path": "C:/Users/aamir/Java-projects/string-problems/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CaseInsensitiveAnagrams">
+  <component name="RunManager" selected="Application.DistinctCharactersInAllString">
     <configuration name="CaseInsensitiveAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaseInsensitiveAnagrams" />
+      <module name="string-problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcatenateFirstLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenateFirstLetter" />
+      <module name="string-problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistinctCharactersInAllString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DistinctCharactersInAllString" />
       <module name="string-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,22 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStringInAlphabeticalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortStringInAlphabeticalOrder" />
-      <module name="string-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToIntegerATOI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringToIntegerATOI" />
-      <module name="string-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubstringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubstringSearch" />
+    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPalindromicSubstring" />
       <module name="string-problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CaseInsensitiveAnagrams" />
-        <item itemvalue="Application.SortStringInAlphabeticalOrder" />
+        <item itemvalue="Application.DistinctCharactersInAllString" />
+        <item itemvalue="Application.ConcatenateFirstLetter" />
+        <item itemvalue="Application.LongestPalindromicSubstring" />
         <item itemvalue="Application.LexicographicallyOrdering" />
-        <item itemvalue="Application.StringToIntegerATOI" />
-        <item itemvalue="Application.SubstringSearch" />
+        <item itemvalue="Application.CaseInsensitiveAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -122,20 +131,5 @@
       <updated>1745674963897</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>4</line>
-          <properties class="Test" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
